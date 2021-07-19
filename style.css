@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url("viruses-bacteria-fungi.jpg");
+    background-size: 75% 100%;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    }
+
+    
+body {
+    background-color: #2a3632;
+    font-family: "Times New Roman", Times, serif;
+    }
